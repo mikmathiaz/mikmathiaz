@@ -7,8 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikmathiaz&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
@@ -18,10 +16,6 @@
 </p>
 
 ---
-
----
-
-## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff" />
@@ -34,7 +28,7 @@
 
 ---
 
-## 📫 Como me encontrar
+## 📫 
 
 - ✉️ mikaelmssl@gmail.com  
 
@@ -44,11 +38,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mikmathiaz&color=blue" alt="Visualizações de perfil" />
-</p>
-
----
-
-<p align="center">
-  Feito com café ☕ 
 </p>
 
