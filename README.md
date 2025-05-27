@@ -3,7 +3,6 @@
 
 - 💻 Estudante de T.i e desenvolvedor web e mobile
 - 🎯 Focado em criar aplicações e aprender linguagens novas
-- 🧠 Curioso por natureza e viciado em aprender
 
 ---
 
