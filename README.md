@@ -2,17 +2,11 @@
 ## Olá sou Mikael Mathias
 
 - 💻 Estudante de T.i e desenvolvedor web e mobile
-- 🎯 Focado em criar aplicações e aprender linguagens novas
-
 ---
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikmathiaz&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikmathiaz&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+</div>
 
 ---
 
